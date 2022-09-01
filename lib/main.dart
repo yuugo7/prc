@@ -50,7 +50,7 @@ class Myhomepage extends HookConsumerWidget {
               const Text(
                 'botton:',
               ),
-              const Text('patren'),
+              const Text('t'),
               TextButton(
                   onPressed: () => counter.state++, child: Text('button'))
             ],
